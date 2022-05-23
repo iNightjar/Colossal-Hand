@@ -2,8 +2,9 @@
 
 <img src="https://github.com/iNightjar/User-Management-System/blob/master/images/demonstration.gif?raw=true" href="https://github.com/iNightjar" alt="demonstration"  width="550"/><br> 
   
-<h2>`User Management System`</h2><br>
-<p><strong>Crud application using:
-* nodejs/expressJS  
-* Cloud mongo database</p>
+### <h2>`User Management System`</h2><br>
+<p><strong>Crud application using: <br>
+* nodejs/expressJS. <br>
+* Cloud mongo database. <br>
+</p>
 </div>
