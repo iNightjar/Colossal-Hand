@@ -8,13 +8,13 @@
 * Cloud mongo database. <br>
 </p>
 
-##### <h2>`To run this project install modules first using:`</h2><br>
+##### `To run this project install modules first using:`<br>
 ```
 # npm install morgan nodemon ejs body-parser dotenv mongoose axios
 ```
 <br>
 
-##### <h2>`Then add your [config.env] and [MONGO_URL] then start project:`</h2><br>
+##### `Then add your [config.env] and [MONGO_URL] then start project:`<br>
 ```
 # npm start 
 ```
