@@ -14,8 +14,16 @@
 ```
 <br>
 
-##### `Then add your [config.env] and [MONGO_URL] then start project:`<br>
+##### `Then add your [MONGO_URL] to file[config.env] then start project:`<br>
 ```
 # npm start 
 ```
+
+
+##### `Open your browser and type in search::`<br>
+```
+localhost:3000
+```
+<br>
+<p><strong>That's It ^_^<br>
 </div>
