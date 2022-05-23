@@ -8,6 +8,15 @@
 * Cloud mongo database. <br>
 </p>
 
+##### `I used MVC Pattern for project structure`<br>
+
+* [Modules](https://github.com/iNightjar/User-Management-System/tree/master/views)
+
+* [Control](https://github.com/iNightjar/User-Management-System/tree/master/server)
+
+* [View](https://github.com/iNightjar/User-Management-System/tree/master/assets)
+<br>
+
 ##### `To run this project install modules first using:`<br>
 ```
 # npm install morgan nodemon ejs body-parser dotenv mongoose axios
