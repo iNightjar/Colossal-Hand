@@ -33,6 +33,4 @@
 ```
 localhost:3000
 ```
-<br>
-<p><strong>That's It ^_^<br>
 </div>
