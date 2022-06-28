@@ -22,6 +22,11 @@
 
 <br>
 
+## MongoDB Cluster[CrudDB]
+<img src="https://github.com/iNightjar/User-Management-System/blob/master/images/cloudDB.png?raw=true" href="https://github.com/iNightjar" alt="cloudDB" />
+
+<br>
+
 ### MVC Pattern for project structure
 
 * [Modules](https://github.com/iNightjar/User-Management-System/tree/master/views)
@@ -48,6 +53,5 @@
 localhost:3000
 ```
 
-## MongoDB Cluster[CrudDB]
-<img src="https://github.com/iNightjar/User-Management-System/blob/master/images/cloudDB.png?raw=true" href="https://github.com/iNightjar" alt="cloudDB" />
+
 </div>
