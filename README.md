@@ -15,15 +15,16 @@
 
 <br>
 
+## MongoDB Cluster[CrudDB]
+<img src="https://github.com/iNightjar/User-Management-System/blob/master/images/cloudDB.png?raw=true" href="https://github.com/iNightjar" alt="cloudDB" />
+
+<br>
+
 ### Crud application using
 
 * NodeJS/expressJS
 * Cloud mongo database
 
-<br>
-
-## MongoDB Cluster[CrudDB]
-<img src="https://github.com/iNightjar/User-Management-System/blob/master/images/cloudDB.png?raw=true" href="https://github.com/iNightjar" alt="cloudDB" />
 
 <br>
 
