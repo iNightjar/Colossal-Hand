@@ -26,14 +26,14 @@
 ```
 # npm install morgan nodemon ejs body-parser dotenv mongoose axios
 ```
-### Then add your [MONGO_URL] to file[config.env] then start project
+### Then Add Your [MONGO_URL] to File [config.env] And Run Project
 
 ```
 # npm start 
 ```
 
 
-### Open your browser and type in search
+### Open your browser And Type in Search
 
 ```
 localhost:3000
